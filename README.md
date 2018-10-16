@@ -21,7 +21,7 @@ Install dependencies:
 
 ```sh
 npm install &&
-elm install
+elm package install
 
 ```
 
